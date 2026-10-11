@@ -1,0 +1,9 @@
+# Archivos subidos por los usuarios durante las pruebas
+malwatcher/upload-dir/
+
+# Archivo de prueba vacío
+malwatcher/prueba.txt
+
+# Variables de entorno y logs
+.env
+*.log
